@@ -1,6 +1,6 @@
-# Designed for ESP32-S3-Touch-LCD-7
+# Designed for ESP32-S3-Touch-LCD-4.3
 esp32:
-  board: esp32-s3-devkitc-1
+  board: esp32-s3-wroom-1
   variant: ESP32S3
   flash_size: 8MB
   framework:
