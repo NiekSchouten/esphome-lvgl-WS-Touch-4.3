@@ -1,4 +1,4 @@
-# ESP32-S3-Touch-LCD-7
+# ESP32-S3-Touch-LCD-4.3
 substitutions:
   name: "your-device-name"
   friendly_name: "Your Room Sensor"
@@ -12,7 +12,7 @@ wifi:
 # Packages
 packages:
   setup:
-    url: https://github.com/jtenniswood/esphome-lvgl/
+    url: https://github.com/NiekSchouten/esphome-lvgl-WS-Touch-4.3/
     files: [device/esp32-s3-touch-lcd-7.yaml,
             addon/time.yaml,
             addon/backlight.yaml,
