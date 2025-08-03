@@ -13,7 +13,7 @@ wifi:
 packages:
   setup:
     url: https://github.com/NiekSchouten/esphome-lvgl-WS-Touch-4.3/
-    files: [device/esp32-s3-touch-lcd-7.yaml,
+    files: [device/esp32-s3-touch-lcd-4.3.yaml,
             addon/time.yaml,
             addon/backlight.yaml,
             addon/network.yaml,
